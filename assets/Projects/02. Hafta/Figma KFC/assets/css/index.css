@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.section01 {
+    width: 820px;
+    padding-top: 120px;
+    padding-left: 155px;
+    margin-bottom: 200px;
+}
+
+.section01 h3 {
+    margin-bottom: 12px;
+    font-size: 30px;
+}
+
+.section01 h1 {
+    margin-bottom: 40px;
+    font-size: 60px;
+}
+
+.section02 {
+    margin-bottom: 40px;
+    padding-right: 165px;
+    padding-left: 165px;
+    margin-bottom: 80px;
+    margin-bottom: 200px;
+}
+
+.kfc {
+    padding: 24px;
+    border: 1px solid #c4c4c4;
+    border-radius: 12px;
+    margin-bottom: 80px;
+}
+
+
+.kfc a img {
+    margin-bottom: 0;
+}
+
+
+.kfc img {
+    border-radius: 12px;
+    margin-bottom: 24px;
+}
+
+.kfc h2 {
+    font-size: 30px;
+    color: #212121;
+    margin-bottom: 12px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.kfc p {
+    width: 669px;
+    font-size: 16px;
+    padding-bottom: 88px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.projecttitle {
+    margin-bottom: 40px;
+    color: #212121;
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.kfc a {
+    text-decoration: none;
+    color: #212121;
+    font-family: "Montserrat", sans-serif;
+}
+
+.left h3 {
+    padding-bottom: 16px;
+    color: 212121;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.left h1 {
+    font-size: 40px;
+    color: #212121;
+    font-family: "Montserrat", sans-serif;
+    width: 550px;
+}
+
+.left h1 a {
+    font-size: 40px;
+    color: #2058ff;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.left {
+    padding-left: 165px;
+    margin-right: 0px;
+    padding-right: 96px;
+}
+
+.section03 {
+    margin-bottom: 40px;
+    padding-right: 0px;
+    margin-bottom: 80px;
+    margin-bottom: 200px;
+    display: flex;
+
+
+}
+
+.right {
+    text-align: right;
+    margin: 0;
+}
+
+.right form {
+    width: 445px;
+    height: 48px;
+}
+
+.right input {
+    width: 100%;
+    padding: 16px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.right input::placeholder {
+    font-family: "Open Sans", sans-serif;
+    color: #999;
+    font-size: 14px;
+}
+
+.right button {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    padding: 8px 152px;
+    background-color: #fff;
+    color: #212121;
+    border-radius: 3px;
+    cursor: pointer;
+    display: flex;
+    white-space: nowrap;
+    justify-content: center;
+}
+
+.right button:hover {
+    background-color: #ededed;
+}
+
+
+
+

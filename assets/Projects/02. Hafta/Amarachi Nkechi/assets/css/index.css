@@ -1,0 +1,78 @@
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-color: rgb(228, 228, 228);
+}
+
+.container {
+    width: 550px;
+    height: 378px;
+    margin: auto;
+    margin-top: 180px;
+}
+
+.mylink {
+    background-color: #fdfdfd;
+    width: 550px;
+    height: 387px;
+    border-radius: 12px;
+    box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.mylink h3 {
+    padding-left: 24px;
+    padding-top: 19px;
+    font-family: "Open Sans", sans-serif;
+    width: 58px;
+    height: 28px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+hr {
+    width: 92%;
+    margin:0px auto;
+    border: none;
+    border-top: 1px solid #e2e2e2;
+    padding-bottom: 0px;
+}
+
+.mylink a {
+    color: #212121;
+    padding-left: 24px;
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+    width: 132px;
+    height: 28px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 14px;
+}
+
+.mylink p {
+    color: #807E7E;
+    padding-left: 24px;
+    padding-bottom: 14px;
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+    width: 259px;
+    height: 24px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+}
+
+.linkler {
+    transition: background-color 0.3s;
+}
+
+.linkler:hover {
+    background-color: rgb(239, 239, 239);
+}
